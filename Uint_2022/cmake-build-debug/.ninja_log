@@ -1,0 +1,18 @@
+# ninja log v5
+1	293	7283325378275391	build.ninja	84b558acefb75de9
+20	2823	7283323720123186	Google_tests/lib/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	c7d0700d27eeab94
+0	421	7283323530911474	CMakeFiles/Uint_2022.dir/bin/main.cpp.obj	4c00d861b9754517
+7	445	7283323531164269	CMakeFiles/Uint_2022.dir/lib/number.cpp.obj	2d70db827bfc88b1
+445	542	7283323532113757	Uint_2022.exe	86095b24eec45fa
+2	435	7283324397218516	Google_tests/CMakeFiles/Google_Tests_run.dir/__/bin/main.cpp.obj	b09050743b3c29dc
+7	1566	7283323705048681	Google_tests/CMakeFiles/Google_Tests_run.dir/__/lib/number.cpp.obj	8e3b5d5a0681b62c
+1	4031	7283323732191492	Google_tests/CMakeFiles/Google_Tests_run.dir/number_test.cpp.obj	baacaa62f28a1c2b
+34	7419	7283323766019992	Google_tests/lib/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	bdb1da57a522db11
+7422	9078	7283323782711205	lib/libgtest.a	d4087447b246355a
+9078	9142	7283323783371697	lib/libgtest_main.a	f8c1116814950940
+435	2913	7283324421935283	Google_tests/Google_Tests_run.exe	8677be22510a3151
+3	2520	7283325439012997	Google_tests/Google_Tests_run.exe	b7bcbc0d55c56fa4
+4	1005	7283325695747498	Google_tests/CMakeFiles/Google_Tests_run.dir/__/lib/number.cpp.obj	8e3b5d5a0681b62c
+1005	4302	7283325728674521	Google_tests/Google_Tests_run.exe	b7bcbc0d55c56fa4
+3	677	7283325847615997	Google_tests/CMakeFiles/Google_Tests_run.dir/__/lib/number.cpp.obj	8e3b5d5a0681b62c
+677	4160	7283325882430692	Google_tests/Google_Tests_run.exe	b7bcbc0d55c56fa4
