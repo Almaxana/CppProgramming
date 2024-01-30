@@ -18,4 +18,4 @@
 Переполнение - Undefined Behavior
 
 ## Примечание
-Основной код находится в  папке lib. Тесты в Google_tests/number_test.cpp
+Основной код находится в  папке lib. Тесты - в Google_tests/number_test.cpp
